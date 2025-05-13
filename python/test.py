@@ -11,8 +11,8 @@ class MainApp(tk.Frame):
         self.pack()
 
         # ウィンドウ設定
-        master.geometry("700x500") # ウィンドウの大きさ指定
-        master.title("Sample") # タイトル
+        master.geometry("900x700") # ウィンドウの大きさ指定
+        master.title("メニュー画面") # タイトル
 
         self.make_widgets()
 
